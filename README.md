@@ -39,6 +39,52 @@ notebooks e outros dispositivos para facilitar o rastreio em casos de eventuais 
 
 ![imagem_tela_inicial](../)
 
+***
+
+# Interface Cadastro
+
+### Botões
+
+**Cofirmar Cadastro** | **Cancelar**
+
+### Mensagens
+
+- Preencha todos os campo solicitados.
+
+- Cadastro realizado com sucesso.
+
+- Cadastro cancelado.
+
+### Direções
+
+1. Preencha todos os campos para a realização do cadastro.
+   
+2. Clique em confirmar informações para finalizar o cadastro.
+
+![imagem_tela_cadastro](../)
+
+***
+# Interface Login
+
+### Botões
+
+ **Entrar** | **Redefinir Senha**
+
+### Mensagens
+
+- Insira seu email
+
+- Insira sua senha
+
+### Direções
+
+1. Preencha os campos de email e senha.
+   
+2. Clique em entrar.
+  
+3. Clique em redefinir senha para alterar sua senha
+
+![imagem_tela_Login](../)
 
 ***
 
@@ -59,8 +105,34 @@ Bem-vindo ao Sistema de Empréstimo!
 > Empréstimos em aberto: ________________
 
 
-Botões
-> **Multas Pendentes** | **Histórico de empréstimos** | **Alterar senha** | **Itens Reservados**
+### Botões
+
+ **Multas Pendentes** | **Histórico de empréstimos** | **Alterar senha** | **Itens Reservados**
+
+### Mensagens
+
+- Cosultar multas pendentes.
+
+  - Não há multas pendentes.
+
+  - Há multas pendentes.
+
+- Consultar histórico de empréstimos
+
+  - Informe o período desejado
+
+- Informe nova senha.
+
+
+### Direções
+
+1. Para liberar novos empréstimos é necessário quitar multas pendentes.
+   
+2. Informe o período desejado para consultar seu histórico de empréstimo.
+
+3. Caso deseje redefinir sua senha clique em alterar senha.
+
+4. Clique em Itens Reservados para saber se o item reservado está disponível para retirada. 
 
 
 ![imagem_aluno](../)
@@ -86,8 +158,32 @@ Bem-vindo ao Sistema de Empréstimo!
 > Empréstimos em aberto: ________________
 
 
-Botões
-> **Multas Pendentes** | **Histórico de empréstimos** | **Alterar senha** | **Itens Reservados**
+### Botões
+
+ **Multas Pendentes** | **Histórico de empréstimos** | **Alterar senha** | **Itens Reservados**
+
+- Cosultar multas pendentes.
+
+  - Não há multas pendentes.
+
+  - Há multas pendentes.
+
+- Consultar histórico de empréstimos
+
+  - Informe o período desejado
+
+- Informe nova senha.
+
+
+### Direções
+
+1. Para liberar novos empréstimos é necessário quitar multas pendentes.
+   
+2. Informe o período desejado para consultar seu histórico de empréstimo.
+
+3. Caso deseje redefinir sua senha clique em alterar senha.
+
+4. Clique em Itens Reservados para saber se o item reservado está disponível para retirada. 
 
 
 
@@ -112,8 +208,32 @@ Bem-vindo ao Sistema de Empréstimo!
 > Empréstimos em aberto: ________________
 
 
-Botões
-> **Multas Pendentes** | **Histórico de empréstimos** | **Alterar senha** | **Itens Reservados**
+### Botões
+
+ **Multas Pendentes** | **Histórico de empréstimos** | **Alterar senha** | **Itens Reservados**
+
+- Cosultar multas pendentes.
+
+  - Não há multas pendentes.
+
+  - Há multas pendentes.
+
+- Consultar histórico de empréstimos
+
+  - Informe o período desejado
+
+- Informe nova senha.
+
+
+### Direções
+
+1. Para liberar novos empréstimos é necessário quitar multas pendentes.
+   
+2. Informe o período desejado para consultar seu histórico de empréstimo.
+
+3. Caso deseje redefinir sua senha clique em alterar senha.
+
+4. Clique em Itens Reservados para saber se o item reservado está disponível para retirada. 
 
 
 ![imagem_professor](../)
@@ -128,10 +248,7 @@ Botões
 
 Bem-vindo ao Sistema de Empréstimo!
 
-Botões
-> **Itens Retirados** 
 
-> **Atualizar Análise de Itens Retirados**
 
 > Patrimônio: ______________________________
 
@@ -144,6 +261,24 @@ Botões
 > Valor: ______________________________
 
 > Certificação de Garantia: ______________________________
+
+### Botões
+
+ **Código Patrimônio** | **Atualizar Análise de Itens Retirados**
+
+### Mensagens
+
+- Insira o código do patrimônio.
+
+- Lista atualizada.
+
+  ### Direções
+
+  1. Insira o código do patrimônio para visualizar o diagnóstico de reparo
+
+  2. Clique em atualizar análise de intens retirasos para emitir relátorio atualizado de itens 
+
+
 
 
 ![imagem_empresa](../)
@@ -160,8 +295,7 @@ Botões
 
 Bem-vindo ao Sistema de Empréstimo!
 
-Botões
-> **Instituições** | **Itens Disponíveis** 
+
 
 
 > Polo: ______________________________
@@ -173,8 +307,26 @@ Botões
 > Quantidade: ______________________________
 
 
-Botões
-> **Reservar Item** 
+### Botões
 
+> **Reservar Item** | **Polo** | **Itens Disponíveis**
+
+ ### Mensagens
+
+ - Selecione o item desejado.
+
+ - Selecione o Polo desejado.
+
+ - Itens disponíveis para localação
+
+
+### Direções
+
+1. Selecione o item que deseja realizar a reserva.
+
+2. Insira o polo o qual deseja que os itens sejam enviados.
+
+3. Clique em Itens Disponíeis para saber a quantidade e disponilidade dos itens desejados
+    
 ![imagem_instituicao](../)
 
