@@ -37,9 +37,9 @@ notebooks e outros dispositivos para facilitar o rastreio em casos de eventuais 
 <p> A qualificação do usuário entregará uma tela especifica com as informações e ações possiveis de ser realizada pelo usuário. </p>
 
 
-![imagem_tela_inicial](../Fotos/interface-1)
-![imagem_tela_inicial](../Fotos/interface-2)
-![imagem_tela_inicial](../Fotos/interface-3)
+![imagem_tela_inicial](/Fotos/interface-1.jpg)
+
+
 
 
 ***
@@ -64,7 +64,7 @@ notebooks e outros dispositivos para facilitar o rastreio em casos de eventuais 
    
 2. Clique em confirmar informações para finalizar o cadastro.
 
-![imagem_tela_cadastro](../)
+![imagem_tela_inicial](/Fotos/interface-2.jpg)
 
 ***
 # Interface Login
@@ -87,7 +87,7 @@ notebooks e outros dispositivos para facilitar o rastreio em casos de eventuais 
   
 3. Clique em redefinir senha para alterar sua senha
 
-![imagem_tela_Login](../)
+![imagem_tela_inicial](/Fotos/interface-3.jpg)
 
 ***
 
@@ -138,7 +138,7 @@ Bem-vindo ao Sistema de Empréstimo!
 4. Clique em Itens Reservados para saber se o item reservado está disponível para retirada. 
 
 
-![imagem_aluno](../)
+![imagem_aluno](/Fotos/aluno.jpg)
 
 
 ***
@@ -190,7 +190,7 @@ Bem-vindo ao Sistema de Empréstimo!
 
 
 
-![imagem_responsavel_legal)](../)
+![imagem_responsavel_legal)](/Fotos/responsavel.jpg)
 
 
 ***
@@ -239,7 +239,7 @@ Bem-vindo ao Sistema de Empréstimo!
 4. Clique em Itens Reservados para saber se o item reservado está disponível para retirada. 
 
 
-![imagem_professor](../)
+![imagem_professor](/Fotos/professor.jpg)
 
 
 ***
@@ -284,7 +284,7 @@ Bem-vindo ao Sistema de Empréstimo!
 
 
 
-![imagem_empresa](../)
+![imagem_empresa](/Fotos/empresa.jpg)
 
 
 ***
@@ -331,5 +331,5 @@ Bem-vindo ao Sistema de Empréstimo!
 
 3. Clique em Itens Disponíeis para saber a quantidade e disponilidade dos itens desejados
     
-![imagem_instituicao](../)
+![imagem_instituicao](/Fotos/empresa.jpg)
 
