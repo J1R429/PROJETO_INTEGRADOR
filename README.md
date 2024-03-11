@@ -331,5 +331,5 @@ Bem-vindo ao Sistema de Empréstimo!
 
 3. Clique em Itens Disponíeis para saber a quantidade e disponilidade dos itens desejados
     
-![imagem_instituicao](/Fotos/empresa.jpg)
+![imagem_instituicao](/Fotos/instituicao.jpg)
 
