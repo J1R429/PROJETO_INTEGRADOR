@@ -37,7 +37,10 @@ notebooks e outros dispositivos para facilitar o rastreio em casos de eventuais 
 <p> A qualificação do usuário entregará uma tela especifica com as informações e ações possiveis de ser realizada pelo usuário. </p>
 
 
-![imagem_tela_inicial](../)
+![imagem_tela_inicial](../Fotos/interface-1)
+![imagem_tela_inicial](../Fotos/interface-2)
+![imagem_tela_inicial](../Fotos/interface-3)
+
 
 ***
 
